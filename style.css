@@ -12,7 +12,10 @@ html, body{
       height: 100%;
       width: 100%;
   }
-  
+  #camera-view, #camera-device, #photo-display{
+    transform: scaleX(-1);
+  }
+
   /*
   Style the element with id="take-photo-button"
   */
