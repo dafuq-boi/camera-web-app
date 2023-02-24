@@ -65,7 +65,9 @@ html, body{
   .photo-taken{
       height: 100px!important; /* !important => Overrides the predefined height property (e.g., 100%) */
       width: 100px!important; /* !important => Overrides the predefined width property (e.g., 100%) */
-       width: 300px;
+      
+        top: 20px;
+      right: 20px;
    
 
   }
